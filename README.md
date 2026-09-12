@@ -131,6 +131,8 @@ The dashboard provides an interactive view of customer behavior with:
 | `Customer_Shopping_Behavior_Analysis.sql` | SQL queries |
 | `Report.pdf` | Project report |
 | `dashboard.pbix` | Power BI dashboard |
+| `dashboard_image.png` | Dashboard image |
+| `README.md` | Readme |
 
 ---
 
