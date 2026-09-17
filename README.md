@@ -10,7 +10,7 @@ The project uses **Python, MySQL, SQL, and Power BI** to transform raw customer 
 
 ## 📸 Dashboard Preview
 
-![Decathlon Sales Dashboard](dashboard_image.png)
+![Customer_Shopping_Behaviour_Analysis_Python_SQL_POWERBI](dashboard_image.png)
 
 ---
 
